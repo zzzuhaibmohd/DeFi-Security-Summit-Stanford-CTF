@@ -1,10 +1,13 @@
 # DeFi-Security-Summit-Stanford-CTF
+![A-MAZE-X-Stanford](https://user-images.githubusercontent.com/104667778/190207879-b1e38e08-0189-491a-a031-4cb517e6fc69.png)
 
 Offical Repository - https://github.com/secureum/DeFi-Security-Summit-Stanford
 
-The challenges revovlve around popular smart contract vulnerbilites one finds in the wild.
+Write up - https://zuhaibmd.medium.com/the-defi-security-summit-stanford-ctf-dfd045b00e2d
 
-Important Concepts Covered:
+The challenges revolves around popular smart contract vulnerabilities one finds in the wild.
+
+## Important Concepts Covered:
 
 1. ERC20 Standard
 2. Flash Loans
@@ -12,5 +15,3 @@ Important Concepts Covered:
 4. AMMs
 5. Borrow & Lending
 6. Price Oracles
-
-Medium Blog coming soon !!!
